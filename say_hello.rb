@@ -1,2 +1,2 @@
-say_hello("Cass")
-puts say_hello("Cass")
+say_hello
+def
